@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850" height="392" viewBox="0 0 850 392" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Arka Plan -->
+  <rect width="850" height="392" rx="16" fill="#0c1017"/>
+  <rect x="0.5" y="0.5" width="849" height="391" rx="15.5" stroke="#1b2230"/>
+
+  <!-- Başlık -->
+  <text x="425" y="65" fill="#ffffff" font-size="28" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" text-anchor="middle">Aviressence</text>
+
+  <!-- Studying Başlığı & İkonu -->
+  <g transform="translate(50, 105)">
+    <text x="0" y="14" fill="#ffffff" font-size="16" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">Studying</text>
+  </g>
+  <!-- Studying Metni -->
+  <text x="50" y="148" fill="#cbd5e1" font-size="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">Physics</text>
+
+  <!-- Learning & Interests Başlığı & İkonu -->
+  <g transform="translate(50, 180)">
+    <text x="0" y="14" fill="#ffffff" font-size="16" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, Roboto, sans-serif">Learning &amp; Interests</text>
+  </g>
+  
+          <circle cx="50" cy="206" r="2.5" fill="#94a3b8"/>
+          <text x="60" y="210" fill="#cbd5e1" font-size="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">Unity</text>
+        
+          <circle cx="240" cy="206" r="2.5" fill="#94a3b8"/>
+          <text x="250" y="210" fill="#cbd5e1" font-size="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">Flutter</text>
+        
+          <circle cx="430" cy="206" r="2.5" fill="#94a3b8"/>
+          <text x="440" y="210" fill="#cbd5e1" font-size="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">Physics Simulation</text>
+        
+          <circle cx="620" cy="206" r="2.5" fill="#94a3b8"/>
+          <text x="630" y="210" fill="#cbd5e1" font-size="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">MCP Building</text>
+        
+          <circle cx="50" cy="232" r="2.5" fill="#94a3b8"/>
+          <text x="60" y="236" fill="#cbd5e1" font-size="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">Data Science</text>
+        
+          <circle cx="240" cy="232" r="2.5" fill="#94a3b8"/>
+          <text x="250" y="236" fill="#cbd5e1" font-size="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">Computational Cognitive Science</text>
+        
+
+  <!-- Programming Languages Başlığı & İkonu -->
+  <g transform="translate(50, 296)">
+    <text x="0" y="14" fill="#ffffff" font-size="16" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">Programming Languages</text>
+  </g>
+  
+          <g transform="translate(50, 322)">
+            <rect width="72" height="26" rx="6" fill="#141b24" stroke="#232c3d" stroke-width="1"/>
+            <text x="36" y="17" fill="#e2e8f0" font-size="12" font-weight="500" font-family="'JetBrains Mono', monospace" text-anchor="middle">Python</text>
+          </g>
+        <circle cx="134" cy="335" r="1.5" fill="#475569" />
+          <g transform="translate(146, 322)">
+            <rect width="45" height="26" rx="6" fill="#141b24" stroke="#232c3d" stroke-width="1"/>
+            <text x="22.5" y="17" fill="#e2e8f0" font-size="12" font-weight="500" font-family="'JetBrains Mono', monospace" text-anchor="middle">C</text>
+          </g>
+        <circle cx="203" cy="335" r="1.5" fill="#475569" />
+          <g transform="translate(215, 322)">
+            <rect width="48" height="26" rx="6" fill="#141b24" stroke="#232c3d" stroke-width="1"/>
+            <text x="24" y="17" fill="#e2e8f0" font-size="12" font-weight="500" font-family="'JetBrains Mono', monospace" text-anchor="middle">C++</text>
+          </g>
+        <circle cx="275" cy="335" r="1.5" fill="#475569" />
+          <g transform="translate(287, 322)">
+            <rect width="45" height="26" rx="6" fill="#141b24" stroke="#232c3d" stroke-width="1"/>
+            <text x="22.5" y="17" fill="#e2e8f0" font-size="12" font-weight="500" font-family="'JetBrains Mono', monospace" text-anchor="middle">C#</text>
+          </g>
+        <circle cx="344" cy="335" r="1.5" fill="#475569" />
+          <g transform="translate(356, 322)">
+            <rect width="56" height="26" rx="6" fill="#141b24" stroke="#232c3d" stroke-width="1"/>
+            <text x="28" y="17" fill="#e2e8f0" font-size="12" font-weight="500" font-family="'JetBrains Mono', monospace" text-anchor="middle">Dart</text>
+          </g>
+        
+</svg>
